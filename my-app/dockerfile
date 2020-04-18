@@ -1,1 +1,1 @@
-FROM wildfly/jboss
+FROM wildfly/Jboss
